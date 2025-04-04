@@ -1,14 +1,16 @@
-from funcions import menuPrincipal, primGemelos, numeros, pedirOpcion
+from funcions import *
 
 print("Bienvenido")
 while True:
     menuPrincipal()
     opc=pedirOpcion()
-    if opc=="1":
-        primGemelos()
-    elif opc=="2":
-        print ("Bucar números palindrónomos")
-    elif opc=="3":
-        print("Saliendo...")
-        break
-    else: print("Ingrese una opciòn valida")
+    match opc:
+        case "1":
+            primGemelos()
+        case "2":
+            primPalindromicos()
+        case "3":
+            print("Saliendo...")
+            break
+        case _: 
+            print("Ingrese una opciòn valida")
