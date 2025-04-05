@@ -2,9 +2,6 @@
 
 Este proyecto es una aplicación en consola que permite encontrar números primos gemelos y palíndromos dentro de un rango específico. Además, proporciona una guía interactiva para ayudar al usuario durante su uso.
 
-📷 Capturas de Pantalla (Opcional)
-
-Puedes incluir aquí una imagen del terminal ejecutando el menú.
 
 🚀 Características
 
