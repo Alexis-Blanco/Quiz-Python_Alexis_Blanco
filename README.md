@@ -1,54 +1,58 @@
-# 📌 Números Primos Especiales
 
-Este proyecto es una aplicación en consola que permite encontrar números primos gemelos y palíndromos dentro de un rango específico. Además, proporciona una guía interactiva para ayudar al usuario durante su uso.
+# 📌 Special Prime Numbers
 
----
-
-## 🖼️ Vista Previa
-
-![Vista previa del programa](./assets/preview_prime_numbers.gif)
+This project is a console-based application that allows users to find **twin prime numbers** and **palindromic primes** within a specific range. It also provides an interactive guide to assist users during the process.
 
 ---
 
-## 🚀 Características
+## 🖼️ Preview
 
-✅ Encuentra números primos gemelos
+![Program Preview](./assets/preview_prime_numbers.gif)
 
-✅ Encuentra números primos palíndromos
+---
 
-✅ Interfaz en consola fácil de usar
+## 🚀 Features
 
-## 🛠️ Tecnologías Utilizadas
+✅ Finds twin prime numbers  
+✅ Finds palindromic prime numbers  
+✅ Easy-to-use console interface
 
-Este proyecto fue desarrollado con las siguientes tecnologías:
+---
 
-- [✔] Python 3
+## 🛠️ Technologies Used
 
-- [✔] Funciones puras y estructuras condicionales
+This project was developed using the following technologies:
 
-- [✔] Entrada/Salida por consola
+- [✔] Python 3  
+- [✔] Pure functions and conditional structures  
+- [✔] Console input/output
 
-## 📦 Instalación
+---
 
-Sigue estos pasos para instalar y ejecutar el proyecto en tu máquina local:
+## 📦 Installation
 
-1. Clona el repositorio:
-```sh
+Follow these steps to install and run the project on your local machine:
+
+1. Clone the repository:
+```bash
 git clone https://github.com/Alexis-Blanco/Quiz-Python_Alexis_Blanco.git
 ```
 
-2. Entra en el directorio del proyecto:
-```sh
+2. Navigate to the project directory:
+```bash
 cd Quiz-Python_Alexis_Blanco
 ```
 
-3. Ejecuta el proyecto:
-```sh
+3. Run the project:
+```bash
 python main.py
 ```
 
-## 📂 Estructura del Proyecto
+---
 
+## 📂 Project Structure
+
+```
 /special-prime-numbers
 │── funcions.py
 │── main.py
@@ -56,46 +60,63 @@ python main.py
 │── LICENSE
 │── assets/
     └── preview_prime_numbers.gif
+```
 
-## 📝 Uso
+---
 
-1: Ejecuta el archivo main.py
+## 📝 Usage
 
-2: Selecciona una opción del menú:
+1. Run the `main.py` file
 
-·Buscar primos gemelos
+2. Choose an option from the menu:
 
-·Buscar primos palíndromos
+- Find twin primes  
+- Find palindromic primes  
 
-3: Introduce el rango numérico solicitado para realizar la búsqueda.
+3. Enter the requested number range to perform the search.
 
-4: Si lo necesitas, escoge la opción 3 para ver ayuda
+4. If needed, select option 3 for help.
 
-5: Salir
+5. Exit the program using option 4.
 
+---
 
-## 🤝 Contribución
+## 🤝 Contributing
 
-Si deseas contribuir, sigue estos pasos:
+If you’d like to contribute, follow these steps:
 
-1. Haz un fork del proyecto
+1. Fork the repository
 
-2. Crea una nueva rama (git checkout -b feature/nueva-feature)
+2. Create a new branch  
+```bash
+git checkout -b feature/new-feature
+```
 
-3. Realiza tus cambios y haz commit (git commit -m "Agrega nueva funcionalidad")
+3. Make your changes and commit  
+```bash
+git commit -m "Add new functionality"
+```
 
-4. Sube tu rama (git push origin feature/nueva-feature)
+4. Push your branch  
+```bash
+git push origin feature/new-feature
+```
 
-5. Asegúrate que tu código funciona antes de enviar un PR.
+5. Make sure your code works before submitting a pull request.
 
-6. Describe claramente los cambios en el Pull Request.
+6. Clearly describe your changes in the pull request.
 
-7. No olvides agregar documentación si es necesario.
+7. Don't forget to update the documentation if needed.
 
-## 📄 Licencia
+---
 
-Este proyecto está bajo la licencia MPL-2.0 - consulta el archivo [LICENSE](LICENSE) para más detalles.
+## 📄 License
 
-## 📩 Contacto
+This project is licensed under the MPL-2.0 License — see the [LICENSE](LICENSE) file for more details.
 
-Si tienes preguntas o sugerencias, contáctame en blancogomezy@gmail.com
+---
+
+## 📩 Contact
+
+If you have any questions or suggestions, feel free to reach out at:  
+📧 blancogomezy@gmail.com
