@@ -2,6 +2,14 @@
 
 Este proyecto es una aplicación en consola que permite encontrar números primos gemelos y palíndromos dentro de un rango específico. Además, proporciona una guía interactiva para ayudar al usuario durante su uso.
 
+---
+
+## 🖼️ Vista Previa
+
+![Vista previa del programa](./assets/preview_prime_numbers.gif)
+
+---
+
 ## 🚀 Características
 
 ✅ Encuentra números primos gemelos
@@ -41,27 +49,30 @@ python main.py
 
 ## 📂 Estructura del Proyecto
 
-/Quiz-Python_Alexis_Blanco
+/special-prime-numbers
 │── funcions.py
 │── main.py
 │── README.md
 │── LICENSE
+│── assets/
+    └── preview_prime_numbers.gif
 
 ## 📝 Uso
 
-Ejecuta el archivo main.py
+1: Ejecuta el archivo main.py
 
-Selecciona una opción del menú:
+2: Selecciona una opción del menú:
 
-1: Buscar primos gemelos
+·Buscar primos gemelos
 
-2: Buscar primos palíndromos
+·Buscar primos palíndromos
 
-3: Ver ayuda
+3: Introduce el rango numérico solicitado para realizar la búsqueda.
 
-4: Salir
+4: Si lo necesitas, escoge la opción 3 para ver ayuda
 
-Introduce el rango numérico solicitado para realizar la búsqueda.
+5: Salir
+
 
 ## 🤝 Contribución
 
